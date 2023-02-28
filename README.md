@@ -1,4 +1,4 @@
-# data-analysis-case-study
+# Data Analysis Case Study
 The following data analysis case study is a capstone project as a part of the Google Data Analytics Professional Certificate
 (via Coursera).
 
